@@ -77,7 +77,7 @@ public class CalculatorUI {
 
         window.setLayout(null);
         window.setResizable(false);
-        window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        window.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         window.setVisible(true);
     }
 
